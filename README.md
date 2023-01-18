@@ -3,6 +3,11 @@
 
 ---
 
+# Live demo
+[Project](https://mars-workout.netlify.app/)
+
+---
+
 # CG Mars Workout - Frontend Coding Challenge
 
 ## Overview
